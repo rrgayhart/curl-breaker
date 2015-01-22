@@ -1,6 +1,6 @@
 {
   "name": "curl-breaker",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Break Down a Simple Curl Command",
   "main": "curl_breaker.js",
   "scripts": {
@@ -11,6 +11,10 @@
   ],
   "author": "Meeka Gayhart",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rrgayhart/curl-breaker"
+  },
   "dependencies": {
     "lodash": "^2.4.1",
     "colors": "^1.0.3"
