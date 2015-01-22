@@ -1,0 +1,22 @@
+{
+  "name": "curl-breaker",
+  "version": "0.0.3",
+  "description": "Break Down a Simple Curl Command",
+  "main": "curl_breaker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curl"
+  ],
+  "author": "Meeka Gayhart",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "colors": "^1.0.3"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "curl-breaker" : "curl_breaker.js"
+  }
+}
